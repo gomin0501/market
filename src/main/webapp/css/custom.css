@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html, body{
+  width: 100%;
+  height: auto;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
+ul, li{
+  list-style: none;
+}
+.login{
+  width:400px;
+  height:300px;
+  margin:0 auto;
+}
+.login-ele,.button-middle{
+	text-align:center;
+	
+}
+.login-ele,.form-group{
+	padding-bottom:20px;
+}
+.login-input{
+	margin-bottom:20px;
+}
